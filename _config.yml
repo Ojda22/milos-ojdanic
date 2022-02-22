@@ -16,7 +16,7 @@ author: Milos Ojdanic
 navbar-links:
   Poetry: "aboutme"
   Crash Courses:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Beautiful Jekyll: "aboutme"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Blog: "blog"
 
