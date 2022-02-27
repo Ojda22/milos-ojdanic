@@ -10,6 +10,4 @@ My academic and industrial interests lie in the area of Software Engineering. In
 
 My inspiration is to contribute and deliver practical and powerful test environments to software practitioners. Requiring highly assured software at a reasonable cost _(why do we need assuring software nowadays, well, I will let you conclude)_. The vision is an environment that provides complete automation to the testers. 
 
-#This software test-bed would allow input of different software modules, while after a few minutes of computation, it would assess test thoroughness, stress weak spots with test cases, and deliver a set of test data to be examined with the potential to lead to software failures.
-
-**Check out my page**; I hope you will find something stimulating and leave enriched with peace of knowledge :books: 
+**Check out my page**; I hope you will find something stimulating and leave enriched with peace of knowledge :books:  :evergreen_tree: 
