@@ -14,11 +14,13 @@ author: Milos Ojdanic
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Poetry: "aboutme"
+  Portfolio: "aboutme"
   Crash Courses:
     - Beautiful Jekyll: "aboutme"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Blog: "blog"
+  Poetry: "aboutme"
+  Contact: "aboutme"
 
 # --- Logo --- #
 
@@ -64,6 +66,9 @@ social-network-links:
   ORCID: 0000-0001-8213-3381 
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
+
+# remove adds from footer
+remove-ads: true
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
