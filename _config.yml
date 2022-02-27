@@ -14,7 +14,7 @@ author: Milos Ojdanic
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Portfolio: "aboutme"
+  Portfolio: "portfolio"
   Crash Courses:
     - Beautiful Jekyll: "aboutme"
     - Learn markdown: "https://www.markdowntutorial.com/"
