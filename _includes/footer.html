@@ -12,11 +12,11 @@
       {% endif %}
       <p class="copyright text-muted">
       {% if site.author %}
-        {{ site.author }}
+        &#169; {{ site.author }}
         &nbsp;&bull;&nbsp;
       {% endif %}
       {{ site.time | date: '%Y' }}
-
+	&nbsp;&bull;&nbsp; Fork Beautiful Jekyll
       {% if site.url-pretty %}
         &nbsp;&bull;&nbsp;
         <span class="author-site">
@@ -26,7 +26,7 @@
 
       {% if site.matomo %}
         {% if site.matomo.opt-out %}
-          &nbsp;&bull;&nbsp;
+          &nbsp;&bull;&nbsp; 
           <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
         {% endif %}
       {% endif%}
