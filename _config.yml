@@ -15,12 +15,10 @@ author: Milos Ojdanic
 
 navbar-links:
   Portfolio: "portfolio"
-  Crash Courses:
-    - Beautiful Jekyll: "aboutme"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Crash Courses: "crash_courses"
   Blog: "blog"
-  Poetry: "aboutme"
-  Contact: "aboutme"
+  Poetry: "poetry"
+  Contact: "contact"
 
 # --- Logo --- #
 
