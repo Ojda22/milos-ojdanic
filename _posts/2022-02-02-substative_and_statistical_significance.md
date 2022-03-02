@@ -1,8 +1,11 @@
+---
+layout: post
+title: First post
+subtitle: First post subtitle
+tags: [test]
+---    
 
-
-
-
-    Statistical significance is the least interesting thing about the results. You should describe the results in terms of measures of magnitude –not just, does a treatment affect people, but how much does it affect them.
+Statistical significance is the least interesting thing about the results. You should describe the results in terms of measures of magnitude –not just, does a treatment affect people, but how much does it affect them.
 
     -Gene V. Glass
 
