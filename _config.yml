@@ -16,6 +16,7 @@ author: Milos Ojdanic
 navbar-links:
   Portfolio: "portfolio"
   Crash Courses: "crash_courses"
+  Mutation Testing: "mutation_testing"
   Blog: "blog"
   Poetry: "poetry"
   Contact: "contact"
@@ -214,7 +215,6 @@ date_format: "%B %-d, %Y"
 
 
 #pagination
-gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "blog/page:num"
 
@@ -268,7 +268,7 @@ plugins:
 
 gems:
   - jemoji
-
+  - jekyll-paginate
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
