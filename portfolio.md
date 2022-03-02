@@ -4,6 +4,16 @@ title: Portfolio
 subtitle: Software Engineer | Quality Assurance Engineer | Enthusiastic Researcher
 ---
 
+### Publications
+
+2022 - [On the Use of Commit-Relevant Mutants](./_papers/On_the_use_of_commit_relevant_mutants.pdf), in Empirical Software Engineering Journal (EMSE).
+
+2021 - [Cerebro: Static Subsuming Mutant Selection](./_papers/Cerebro_static_subsuming_mutant_selection.pdf), in Transactions on Software Engineering Journal (TSE).
+
+2021 - [Syntactic vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies](./_papers/Syntactic_sementic_similarity_of_artifical_and_real_faults.pdf), on ArXiv 
+
+2020 - [Commit Aware Mutation Testing](./_papers/Commit-Aware_mutation_testing.pdf), 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), pp. 394-405. **Distinquished paper award** 
+
 ### Education
 
 :mortar_board: Masters of Eng. in Software Engineering, 2019, [Mälardalen University](https://www.mdu.se/en/malardalen-university), Västerås, Sweden
@@ -12,22 +22,22 @@ subtitle: Software Engineer | Quality Assurance Engineer | Enthusiastic Research
 
 ### Employment 
 
+:computer: :mag: Doctoral Researcher, University of Luxembourg, PayPal Project - Assessing and Improving PayPal DevOps Practices
 
-
-### Publications
-
-Lets try about publications
-
-#### Year
-
-ist this possible
-
-#### Years
+:computer: :chart_with_upwards_trend: Full Stack Engineer, CoreIT, Focus on Banking Processes 
 
 ### Teaching, Talks and other stuff
 
-write about teachnie
+Mutation Testing Lecture, Bachelor Studies, University of Luxembourg, course by prof. Yves Le Traon 
 
-### Tools and Datasets
+### Experimental Tools and Datasets
 
-tools and datasets
+PITAssert - framework for the state of the art mutation testing tool PIT, instrumentation of assertions and hight order mutant creating based on a commit changes.
+
+JavaPDG - framework for bytecode graph generation. It generates DefUse chain in aggreation with CotrolFlow graph and Exceptions Controls.
+
+MutationTestingDataset - at the point the biggest collection of mutations. Counts more than 10mil of first and second order of mutations.
+
+### Disclaimer
+
+This page contains personal archived (pre-print versions) articles published by IEEE, ACM, Elsevier, Springer, Wiley and other publishers. Copyright and all rights therein are retained by authors or by other copyright holders. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
