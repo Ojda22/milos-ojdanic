@@ -4,23 +4,31 @@ title: Crash Courses
 subtitle: Easy and Quick Way to Get Some Knowledge
 ---
 
-Vim - Introduction
+<img src="../assets/img/git_logo.png" height="30px">  [Introduction, Trick and Tips]({{ site.baseurl }}{% link crash_courses/git.md %})
 
-Shell Scripting
+[Vim - Introduction]()
 
-Docker
+[Shell Scripting]()
 
-[Git Introduction Trick and Tips]({{ site.baseurl }}{% link crash_courses/git.md %})
+[Docker]()
+
+[Kubernetes]()
 
 ```
 Learn more about git
 ```
 
-Matplotlib
+[Matplotlib - PyPlotLib]()
 
-Latex
+[Latex]()
 
-On the understanding of Java and Python - common points
+[On the understanding of Java and Python - common points]()
 
-Testing Frameworks - JUnit
+[Java Architectures]()
+
+[JUnit - Testing Frameworks]()
+
+[Graph Neural Networks (GNNs)]()
+
+[High Performance Computing - The SLURM Batch Scheduler]()
 
