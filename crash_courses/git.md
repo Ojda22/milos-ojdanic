@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Portfolio
-subtitle: Software Engineer | Quality Assurance Engineer | Enthusiastic Researcher
 ---
 
 ## 🥇 Git rapid experience

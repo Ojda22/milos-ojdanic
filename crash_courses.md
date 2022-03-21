@@ -14,10 +14,6 @@ subtitle: Easy and Quick Way to Get Some Knowledge
 
 [Kubernetes]()
 
-```
-Learn more about git
-```
-
 [Matplotlib - PyPlotLib]()
 
 [Latex]()
