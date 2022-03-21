@@ -4,7 +4,7 @@ title:  Welcome to my website!
 subtitle: It will help you learn a thing ∨ two about me ∧ from me (possibly)
 ---
 
-I'm a Doctorate Candidate at the Luxembourg University, Interdisciplinary Centre for Security, Reliability and Trust [SnT](https://wwwfr.uni.lu/snt), headed by [Prof. Dr Yves Le Traon](https://wwwfr.uni.lu/snt/people/yves_le_traon). While under direct supervision of [Dr Michail (Mike) Papadakis](https://mpapad.github.io/).
+At the moment, I'm a Doctorate Candidate at the Luxembourg University, Interdisciplinary Centre for Security, Reliability and Trust [(SnT)](https://wwwfr.uni.lu/snt). I work in [SERVAL](https://wwwfr.uni.lu/snt/research/serval) research unit, headed by [Prof. Dr Yves Le Traon](https://wwwfr.uni.lu/snt/people/yves_le_traon), while being under direct supervision of [Dr Michail (Mike) Papadakis](https://mpapad.github.io/).
 
 My academic and industrial interests lie in the area of Software Engineering. In particular Software Evolution, Software Testing, Code Analysis, Fault Injection and Intelligent Software Engineering (synergy between Artificial Intelligence (AI) and Software Engineering).
 
