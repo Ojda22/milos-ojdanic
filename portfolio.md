@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-subtitle: Software Engineer | Quality Assurance Engineer | Enthusiastic Researcher
+subtitle: Software Engineer | Quality Assurance (QA) Engineer | Researcher
 ---
 
 ### Publications
@@ -22,21 +22,21 @@ subtitle: Software Engineer | Quality Assurance Engineer | Enthusiastic Research
 
 ### Employment 
 
-:computer: :mag: Doctoral Researcher, University of Luxembourg, PayPal Project - Assessing and Improving PayPal DevOps Practices
+:computer: :mag: Doctoral Researcher, [University of Luxembourg](https://wwwen.uni.lu/), PayPal Project - Assessing and Improving PayPal DevOps Practices
 
-:computer: :chart_with_upwards_trend: Full Stack Engineer, CoreIT, Focus on Banking Processes 
+:computer: :chart_with_upwards_trend: Full Stack Engineer, [CoreIT](https://www.coreit.me/), Focus on Banking Processes 
 
 ### Teaching, Talks and other stuff
 
-Mutation Testing Lecture, Bachelor Studies, University of Luxembourg, course by prof. Yves Le Traon 
+Mutation Testing Lecture, [Bachelor Studies, University of Luxembourg](https://wwwfr.uni.lu/formations/fstm/bachelor_in_applied_information_technology), course by [prof. Dr Yves Le Traon](https://wwwfr.uni.lu/snt/people/yves_le_traon)
 
 ### Experimental Tools and Datasets
 
-PITAssert - framework for the state of the art mutation testing tool PIT, instrumentation of assertions and hight order mutant creating based on a commit changes.
+[PITAssert](https://github.com/Ojda22/pitest/tree/pit-SOM-RM-AssertCache) - framework for the state of the art mutation testing tool PIT, instrumentation of assertions and hight order mutant creating based on a commit changes.
 
-JavaPDG - framework for bytecode graph generation. It generates DefUse chain in aggreation with CotrolFlow graph and Exceptions Controls.
+[JavaPDG](https://github.com/serval-uni-lu/java-pdg) - framework for bytecode graph generation. It generates DefUse chain in aggreation with CotrolFlow graph and Exceptions Controls.
 
-MutationTestingDataset - at the point the biggest collection of mutations. Counts more than 10mil of first and second order of mutations.
+[MutationTestingDataset](https://mutationtesting-user.github.io/evolve-mutation.github.io/) - at the point the biggest collection of mutations. Counts more than 10mil of first and second order of mutations.
 
 ### Disclaimer
 
