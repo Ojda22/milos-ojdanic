@@ -1,8 +1,9 @@
 ---
 layout: post
-title: First post
-subtitle: First post subtitle
-tags: [test]
+title: Let's start...
+subtitle: Wondering what you can find here?
+thumbnail-img: /assets/img/thumb.png
+tags: [introduction, explanation]
 ---    
 
 Statistical significance is the least interesting thing about the results. You should describe the results in terms of measures of magnitude –not just, does a treatment affect people, but how much does it affect them.
