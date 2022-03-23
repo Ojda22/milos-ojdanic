@@ -84,7 +84,7 @@ The git diff command is always comparing two sets of changes, which can be visua
 </details>
 
 - [--word-diff] - shows how individual words differ rather than how lines differ 
-- [--cached | --staged] - tells git to compare the content of the object from database with those in the index
+- [--cached \| --staged] - tells git to compare the content of the object from database with those in the index
 
 ### :rabbit: Fixing mistakes by undoing
 
@@ -121,7 +121,7 @@ git commit --amend -m “message>
 > The remote repository and the local copy are completely independent of one another
 
 ```git fetch [-p | --prune] <repository_name> <branch>``` – updates the remote tracking branches and info on the latest commits
-- [-p | –-prune] - lean up all remote tracking branches that no longer have a remote counterpart
+- [-p \| –-prune] - lean up all remote tracking branches that no longer have a remote counterpart
 
 > Remote tracking braches origin/<branch_name> cannot be switched or changed, they serve git as a reference to what is happening to remote
 
@@ -144,16 +144,16 @@ git commit --amend -m “message>
 
 ```git grep [-i | --ignore-case] [-n | --line-number] ``` - search the contents of all tracked files in repository (default is case-sensitive).
 
-- [-i | --ignore-case] - search case-insensitive.
-- [-n | --line-number] - display the line number for a match.
-- [-n | --line-number] - display the line number for a match.
-- [-l | --name-only] - list just the names of the files.
-- [-S | --name-only] - list just the names of the files.
+- [-i \| --ignore-case] - search case-insensitive.
+- [-n \| --line-number] - display the line number for a match.
+- [-n \| --line-number] - display the line number for a match.
+- [-l \| --name-only] - list just the names of the files.
+- [-S \| --name-only] - list just the names of the files.
 
 ```git log [-S] [-p | --patch] [-G]``` - shows the commit logs
 
 - [-S] - find which commit added or removed a piece of text - search the entire commit history - limit to inspect the history of a single file by supplying the name of the file.
-- [-p | --patch] - display the patch introduced in every commit using the -p (shorthand for --patch) flag. This can be combined with the -S flag to see if the search text was added or removed in a particular commit.
+- [-p \| --patch] - display the patch introduced in every commit using the -p (shorthand for --patch) flag. This can be combined with the -S flag to see if the search text was added or removed in a particular commit.
 - [-G] - find all commits where the line that contains a piece of text changed
 
 
@@ -195,7 +195,7 @@ Think of each commit in terms of its scope, not its size. Try to group changes t
 ### 🏸 Something more advance
 
 ```git tag [-l | --list]``` - record thes current ID (that is, where HEAD points to) in the tag. However, you can supply a specific commit ID after the tag name. _git tag 2.0.0 <commit_id>_
-- [-l | --list] - list all the tags in the repo
+- [-l \| --list] - list all the tags in the repo
 
 ```git cherry-pick <commit_id>``` - copy a commit to another branch
 
