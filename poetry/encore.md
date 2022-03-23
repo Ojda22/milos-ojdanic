@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<h2 align="center">Encore by Patricia Fleming</h2>
+<h2 align="center">"Encore" by Patricia Fleming</h2>
 
 <div align="center">
 <br>
