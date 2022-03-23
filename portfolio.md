@@ -6,13 +6,13 @@ subtitle: Software Engineer | Quality Assurance (QA) Engineer | Researcher
 
 ### Publications
 
-2022 - [On the Use of Commit-Relevant Mutants](./_papers/On_the_use_of_commit_relevant_mutants.pdf), in Empirical Software Engineering Journal (EMSE).
+<img src="../assets/img/journal-article.png" height="20px">  2022 - [On the Use of Commit-Relevant Mutants](./_papers/On_the_use_of_commit_relevant_mutants.pdf), in Empirical Software Engineering Journal (EMSE).
 
-2021 - [Cerebro: Static Subsuming Mutant Selection](./_papers/Cerebro_static_subsuming_mutant_selection.pdf), in Transactions on Software Engineering Journal (TSE).
+<img src="../assets/img/journal-article.png" height="20px">  2021 - [Cerebro: Static Subsuming Mutant Selection](./_papers/Cerebro_static_subsuming_mutant_selection.pdf), in Transactions on Software Engineering Journal (TSE).
 
 2021 - [Syntactic vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies](./_papers/Syntactic_sementic_similarity_of_artifical_and_real_faults.pdf), on ArXiv 
 
-2020 - [Commit Aware Mutation Testing](./_papers/Commit-Aware_mutation_testing.pdf), 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), pp. 394-405. **Distinquished paper award** 
+<img src="../assets/img/conference-paper.png" height="20px">  2020 - [Commit Aware Mutation Testing](./_papers/Commit-Aware_mutation_testing.pdf), 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), pp. 394-405. **Distinquished paper award** <img src="../assets/img/award.png" height="30px">
 
 ### Education
 
