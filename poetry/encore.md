@@ -63,4 +63,4 @@ And may you survive a hundred more! <br>
 
 </div>
 
-[Originally published link]("https://www.familyfriendpoems.com/poem/encore")
+[Source]("https://www.familyfriendpoems.com/poem/encore")
