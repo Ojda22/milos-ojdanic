@@ -16,8 +16,8 @@ author: Milos Ojdanic
 navbar-links:
   Portfolio: "portfolio"
   Crash Courses: "crash_courses"
-  Mutation Testing: "mutation_testing"
-  Blog: "blog"
+  Mutation Testing: "blog2"
+  Blog: "blog1"
   Poetry: "poetry"
   Contact: "contact"
 
@@ -216,7 +216,7 @@ date_format: "%B %-d, %Y"
 
 #pagination
 paginate: 5
-paginate_path: "blog/page:num"
+paginate_path: "blog1/page:num"
 
 
 # --- You don't need to touch anything below here (but you can if you want) --- #
