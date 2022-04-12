@@ -10,7 +10,7 @@ layout: page
     {% if page.category contains 'blog1' %}
       {% if post.categories contains 'blog1' %}
       <p class="post-meta">
-        Posted on {{ post.categories }} Page: {{ page.category }}
+<!--        Posted on {{ post.categories }} Page: {{ page.category }}-->
       </p>
       <article class="post-preview">
 
@@ -50,7 +50,7 @@ layout: page
 
         <p class="post-meta">
           {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-          Posted on {{ post.date | date: date_format }}
+<!--          Posted on {{ post.date | date: date_format }}-->
         </p>
 
         {% if thumbnail != "" %}
@@ -94,7 +94,7 @@ layout: page
     {% elsif page.category contains 'mutation_testing_blog' %}
       {% if post.category contains 'mutation_testing_blog' %}
       <p class="post-meta">
-        Posted on {{ post.categories }} Page: {{ page.category }}
+<!--        Posted on {{ post.categories }} Page: {{ page.category }}-->
       </p>
       <article class="post-preview">
 
@@ -134,7 +134,7 @@ layout: page
 
         <p class="post-meta">
           {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-          Posted on {{ post.date | date: date_format }}
+<!--          Posted on {{ post.date | date: date_format }}-->
         </p>
 
         {% if thumbnail != "" %}
