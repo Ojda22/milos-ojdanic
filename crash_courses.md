@@ -6,7 +6,7 @@ subtitle: Easy and Quick Way to Get Some Knowledge
 
 <img src="../assets/img/git_logo.png" height="30px">  [Introduction, Trick and Tips]({{ site.baseurl }}{% link crash_courses/git.md %})
 
-[Vim - Introduction]()
+[Vim - Introduction](/202.html)
 
 [Shell Scripting]()
 
