@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Welcome to my website!
-subtitle: It will help you learn a thing ∨ two about me ∧ from me (possibly)
+title:  Hi! Welcome to my website!
+subtitle: I hope it will help you learn a thing ∨ two about me ∧ from me (possibly)
 ---
 
 At the moment, I'm a Doctorate Candidate at the Luxembourg University, Interdisciplinary Centre for Security, Reliability and Trust [(SnT)](https://wwwfr.uni.lu/snt). I work in [SERVAL](https://wwwfr.uni.lu/snt/research/serval) research unit, headed by [Prof. Dr Yves Le Traon](https://wwwfr.uni.lu/snt/people/yves_le_traon), while being under direct supervision of [Dr Michail (Mike) Papadakis](https://mpapad.github.io/).

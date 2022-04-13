@@ -4,11 +4,15 @@ title: Portfolio
 subtitle: Software Engineer | Quality Assurance (QA) Engineer | Researcher
 ---
 
+ℹ️ If you enjoy more PDF, find here my [CV](_papers/Milos_Ojdanic.pdf){:target="_blank"} 📜
+
 ### Publications
 
-<img src="../assets/img/journal-article.png" height="20px">  2022 - [On the Use of Commit-Relevant Mutants](./_papers/On_the_use_of_commit_relevant_mutants.pdf), in Empirical Software Engineering Journal (EMSE).
+<img src="../assets/img/journal-article.png" height="20px">  2022 - [Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution](), in ACM Transactions on Software Engineering and Methodologies Journal (TOSEM).
 
-<img src="../assets/img/journal-article.png" height="20px">  2021 - [Cerebro: Static Subsuming Mutant Selection](./_papers/Cerebro_static_subsuming_mutant_selection.pdf), in Transactions on Software Engineering Journal (TSE).
+<img src="../assets/img/journal-article.png" height="20px">  2022 - [On the Use of Commit-Relevant Mutants](), in Springer Empirical Software Engineering Journal (EMSE).
+
+<img src="../assets/img/journal-article.png" height="20px">  2021 - [Cerebro: Static Subsuming Mutant Selection](./_papers/Cerebro_static_subsuming_mutant_selection.pdf), in IEEE Transactions on Software Engineering Journal (TSE).
 
 2021 - [Syntactic vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies](./_papers/Syntactic_sementic_similarity_of_artifical_and_real_faults.pdf), on ArXiv 
 

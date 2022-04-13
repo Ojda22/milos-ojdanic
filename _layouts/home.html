@@ -7,11 +7,14 @@ layout: page
 <div class="posts-list">
   
   {% for post in site.posts %}
-    {% if page.category contains 'blog1' %}
-      {% if post.categories contains 'blog1' %}
-      <p class="post-meta">
-<!--        Posted on {{ post.categories }} Page: {{ page.category }}-->
-      </p>
+<!--    <p class="post-meta">-->
+<!--        Log all: Posted on {{ post.categories }} Page: {{ page.category }}-->
+<!--      </p>-->
+    {% if page.category == 'blog' %}
+      {% if post.categories contains 'blog' %}
+<!--      <p class="post-meta">-->
+<!--        Log Blog in: Posted on {{ post.categories }} Page: {{ page.category }}-->
+<!--      </p>-->
       <article class="post-preview">
 
         {%- capture thumbnail -%}
@@ -91,11 +94,11 @@ layout: page
 
       </article>
       {% endif %}
-    {% elsif page.category contains 'mutation_testing_blog' %}
-      {% if post.category contains 'mutation_testing_blog' %}
-      <p class="post-meta">
-<!--        Posted on {{ post.categories }} Page: {{ page.category }}-->
-      </p>
+    {% elsif page.category == 'mutation_testing_blog' %}
+      {% if post.category == 'mutation_testing_blog' %}
+<!--      <p class="post-meta">-->
+<!--        Log Mutation: Posted on {{ post.categories }} Page: {{ page.category }}-->
+<!--      </p>-->
       <article class="post-preview">
 
         {%- capture thumbnail -%}
