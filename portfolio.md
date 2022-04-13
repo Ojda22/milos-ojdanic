@@ -4,19 +4,19 @@ title: Portfolio
 subtitle: Software Engineer | Quality Assurance (QA) Engineer | Researcher
 ---
 
-ℹ️ If you enjoy more PDF, find here my [CV](_papers/Milos_Ojdanic.pdf){:target="_blank"} 📜
+ℹ️ If you enjoy more PDF, find here my [CV](../assets/pdfs/Milos_Ojdanic.pdf) 📜
 
 ### Publications
 
-<img src="../assets/img/journal-article.png" height="20px">  2022 - [Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution](), in ACM Transactions on Software Engineering and Methodologies Journal (TOSEM).
+<img src="../assets/img/journal-article.png" height="20px">  2022 - [Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution](https://arxiv.org/abs/2112.14566), in ACM Transactions on Software Engineering and Methodologies Journal (TOSEM).
 
-<img src="../assets/img/journal-article.png" height="20px">  2022 - [On the Use of Commit-Relevant Mutants](), in Springer Empirical Software Engineering Journal (EMSE).
+<img src="../assets/img/journal-article.png" height="20px">  2022 - [On the Use of Commit-Relevant Mutants](../assets/pdfs/On_the_use_of_commit_relevant_mutants.pdf) in Springer Empirical Software Engineering Journal (EMSE).
 
-<img src="../assets/img/journal-article.png" height="20px">  2021 - [Cerebro: Static Subsuming Mutant Selection](./_papers/Cerebro_static_subsuming_mutant_selection.pdf), in IEEE Transactions on Software Engineering Journal (TSE).
+<img src="../assets/img/journal-article.png" height="20px">  2021 - [Cerebro: Static Subsuming Mutant Selection](../assets/pdfs/Cerebro_static_subsuming_mutant_selection.pdf), in IEEE Transactions on Software Engineering Journal (TSE).
 
-2021 - [Syntactic vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies](./_papers/Syntactic_sementic_similarity_of_artifical_and_real_faults.pdf), on ArXiv 
+2021 - [Syntactic vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies](https://arxiv.org/pdf/2112.14508.pdf), on ArXiv 
 
-<img src="../assets/img/conference-paper.png" height="20px">  2020 - [Commit Aware Mutation Testing](./_papers/Commit-Aware_mutation_testing.pdf), 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), pp. 394-405. **Distinquished paper award** <img src="../assets/img/award.png" height="30px">
+<img src="../assets/img/conference-paper.png" height="20px">  2020 - [Commit Aware Mutation Testing](../assets/pdfs/Commit-Aware_mutation_testing.pdf), 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), pp. 394-405. **Distinquished paper award** <img src="../assets/img/award.png" height="30px">
 
 ### Education
 
