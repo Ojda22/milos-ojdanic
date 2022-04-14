@@ -8,6 +8,9 @@ At the moment, I'm a Doctorate Candidate at the Luxembourg University, Interdisc
 
 My academic and industrial interests lie in the area of Software Engineering. In particular Software Evolution, Software Testing, Code Analysis, Fault Injection and Intelligent Software Engineering (synergy between Artificial Intelligence (AI) and Software Engineering).
 
-[comment]: My inspiration is to contribute and deliver practical and powerful test environments to software practitioners. Requiring highly assured software at a reasonable cost _(why do we need assuring software nowadays, well, I will let you conclude)_. The vision is an environment that provides complete automation to the testers. 
+I tackle the problems of selecting high-quality test cases, identification, prioritization and execution of any tests for any code change at any time. 
+My inspiration is to contribute and deliver practical and powerful test environments to software practitioners. Fusing highly assured software, reasonable cost, and partial or complete automation to the testers. 
 
 **Check out my page**; I hope you will find something stimulating and leave enriched with a bit of knowledge :books:  :evergreen_tree: 
+
+Feel free also to get in touch through social media (👇), or my work email!
