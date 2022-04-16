@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-subtitle: Software Engineer | QA Engineer | Researcher
+subtitle: Researcher | Software Engineer | QA Engineer
 ---
 
 ℹ️ If you enjoy more PDF, find here my [CV](../assets/pdfs/Milos_Ojdanic.pdf) 📜
