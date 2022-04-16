@@ -2,7 +2,7 @@
 layout: post
 title: Let's hypothesise
 subtitle: Around something significant?
-thumbnail-img: /assets/img/science_icon.png
+thumbnail-img: /assets/posts/science_icon.png
 tags: [statictics, introduction]
 category: blog
 ---

@@ -2,10 +2,9 @@
 layout: post
 title: Goals of testing software?
 subtitle: What should we aim?
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/posts/goals_of_software_testing.png
 tags: [software testing, mutation testing]
 category: mutation_testing_blog
 ---
 
-WIP
+[WIP](./202.html)

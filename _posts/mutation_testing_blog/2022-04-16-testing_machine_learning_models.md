@@ -2,13 +2,12 @@
 layout: post
 title: Testing Machine Learning Models
 subtitle: Why and how?
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/posts/testing_machine_learning.png
 tags: [software testing, machine learning]
 category: mutation_testing_blog
 ---
 
-WIP
+[WIP](./202.html)
 
 
 ### Intro to Machine Learning Testing

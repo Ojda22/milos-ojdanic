@@ -2,7 +2,7 @@
 layout: post
 title: Let's start with Software Testing
 subtitle: Why do we test software?
-thumbnail-img: /assets/img/testing.png
+thumbnail-img: /assets/posts/testing.png
 tags: [fundamentals, software testing]
 category: mutation_testing_blog
 ---
