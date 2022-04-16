@@ -28,7 +28,7 @@ subtitle: Software Engineer | QA Engineer | Researcher
 
 :computer: :mag: Doctoral Researcher, [University of Luxembourg](https://wwwen.uni.lu/), PayPal Project - Assessing and Improving PayPal DevOps Practices
 
-:computer: :chart_with_upwards_trend: Full Stack Engineer, [CoreIT](https://www.coreit.me/), Focus on Banking Processes 
+:computer: :chart_with_upwards_trend: Full Stack Engineer, [CoreIT](https://www.coreit.me/), Focus on Development of Banking Processes 
 
 ### Teaching, Talks and other stuff
 
@@ -36,11 +36,11 @@ Mutation Testing Lecture, [Bachelor Studies, University of Luxembourg](https://w
 
 ### Experimental Tools and Datasets
 
-[PITAssert](https://github.com/Ojda22/pitest/tree/pit-SOM-RM-AssertCache) - framework for the state of the art mutation testing tool PIT, instrumentation of assertions and hight order mutant creating based on a commit changes.
+[PITAssert](https://github.com/Ojda22/pitest/tree/pit-SOM-RM-AssertCache) - Extension framework for the state-of-the-art mutation testing tool PIT - delivers instrumentation of test assertions and generation of high order mutants guided by commit changed statements.
 
-[JavaPDG](https://github.com/serval-uni-lu/java-pdg) - framework for bytecode graph generation. It generates DefUse chain in aggreation with CotrolFlow graph and Exceptions Controls.
+[JavaPDG](https://github.com/serval-uni-lu/java-pdg) - Program for the bytecode graph generation. It generates Definition-Use chains in aggregation with the Control Flow Dependency graph and Throw-Exceptions Execution Controls.
 
-[MutationTestingDataset](https://mutationtesting-user.github.io/evolve-mutation.github.io/) - at the point the biggest collection of mutations. Counts more than 10mil of first and second order of mutations.
+[MutationTestingDataset](https://mutationtesting-user.github.io/evolve-mutation.github.io/) - At this point, the most extensive collection of mutations in code evolution. Counts more than 10mil of the first and second-order mutations.
 
 ### Disclaimer
 
