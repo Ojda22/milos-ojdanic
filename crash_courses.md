@@ -6,25 +6,25 @@ subtitle: Easy and Quick Way to Get Some Knowledge
 
 <img src="../assets/img/git_logo.png" height="30px">  [Introduction, Trick and Tips]({{ site.baseurl }}{% link crash_courses/git.md %})
 
-[Vim - Introduction](/202.html)
+<img src="../assets/img/vim.png" height="30px">  [Vim - Introduction](/202.html) - WIP
 
-[Shell Scripting]()
+<img src="../assets/img/unix-shell.png" height="30px">  [Shell Scripting](/202.html) - WIP
 
-[Docker]()
+<img src="../assets/img/docker.png" height="30px">  [Docker](/202.html) - WIP
 
-[Kubernetes]()
+<img src="../assets/img/kubernetes.png" height="30px">  [Kubernetes](/202.html) - WIP
 
-[Matplotlib - PyPlotLib]()
+<img src="../assets/img/matplotlib.png" height="30px">  [Matplotlib - PyPlotLib](/202.html) - WIP
 
-[Latex]()
+<img src="../assets/img/latex.png" height="30px">  [Latex](/202.html) - WIP
 
-[On the understanding of Java and Python - common points]()
+<img src="../assets/img/java.png" height="30px"> <img src="../assets/img/python.png" height="30px"> [On the understanding of Java and Python - common points](/202.html) - WIP
 
-[Java Architectures]()
+<img src="../assets/img/architecture.png" height="30px">  [Java Architectures](/202.html) - WIP
 
-[JUnit - Testing Frameworks]()
+<img src="../assets/img/junit.png" height="30px">  [JUnit - Testing Frameworks](/202.html) - WIP
 
-[Graph Neural Networks (GNNs)]()
+<img src="../assets/img/network.png" height="30px">  [Graph Neural Networks (GNNs)](/202.html) - WIP
 
-[High Performance Computing - The SLURM Batch Scheduler]()
+<img src="../assets/img/high-performance.png" height="30px">  [High Performance Computing - The SLURM Batch Scheduler](/202.html) - WIP
 
