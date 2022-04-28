@@ -7,9 +7,9 @@ tags: [software testing, machine learning]
 category: mutation_testing_blog
 ---
 
-[WIP](./202.html)
+[WIP](./202.html) - stay tuned... 
 
-
+<!---
 ### Intro to Machine Learning Testing
 
 Here we will learn overall what is the ML, where do testers fit in machine learning, behavioural testing and how far and responsible AI can be
@@ -47,5 +47,5 @@ Based on features model learns the rules, to produce the prediction based on a s
 How to start with Machine Learning?
 
 
-
+--->
 
