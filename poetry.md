@@ -8,5 +8,7 @@ subtitle: Feel the power of words (no rights reserved or claimed)
 
 [A Psalm Of Life - by Henry Wadsworth Longfellow]({{ site.baseurl }}{% link poetry/a_psalm_of_life.md  %})
 
+[Bertrand Russell's "Ten Commandments"]({{ site.baseurl }}{% link poetry/russells_commandements.md  %})
+
 [Encore - by Patricia Fleming]({{ site.baseurl }}{% link poetry/encore.md  %})
 
