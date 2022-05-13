@@ -19,4 +19,16 @@ category: blog
 ```False Negative``` - Model identifies as negative what is correct
 ```False Possitive``` - Model identifies as correct what is negative
 
- 
+```Sensitivity``` - Percentage of correct instances correctly identified as correct (TP / TP + FN)
+```Specificity``` - Percentage of incorrect instances correctly classified as incorrect (TN / TN + FP)
+
+```Bias``` - Inability for a machine learning method (like linear regression) to capture true relationship of data instances. High bias does not capture well, low bias captures well (maybe too well)
+```Variance``` - Difference in fits between data sets
+
+```Overfit``` - Method performs well on training data set and not well on testing data set. Ideally, model has low bias (accurately models true relationship of data), and low variability (producing consistent predictions across different datasets)
+
+```Mean Squered Error``` - measures distance from the data to the fit line, square them and add them up (squared so that negative distances do not cancel out the positive distances)
+
+```Probability``` - The chance of the occurance of an event
+```Surprise``` - probability of observing an event: log2(1/p(x))
+```Entropy``` - entropy is the expected value of a surprise: Sigma(sum) p(x) log2(1/p(x)) 
