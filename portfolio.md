@@ -10,7 +10,7 @@ subtitle: Researcher | Software Engineer | QA Engineer
 
 <img src="../assets/img/journal-article.png" height="20px">  2022 - [Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution](https://arxiv.org/abs/2112.14566), in ACM Transactions on Software Engineering and Methodologies Journal (TOSEM).
 
-<img src="../assets/img/journal-article.png" height="20px">  2022 - [On the Use of Commit-Relevant Mutants](../assets/pdfs/On_the_use_of_commit_relevant_mutants.pdf) in Springer Empirical Software Engineering Journal (EMSE).
+<img src="../assets/img/journal-article.png" height="20px">  2022 - [On the Use of Commit-Relevant Mutants](../assets/pdfs/Ojdanic2022_Article_OnTheUseOfCommit-relevantMutan.pdf) in Springer Empirical Software Engineering Journal (EMSE).
 
 <img src="../assets/img/journal-article.png" height="20px">  2021 - [Cerebro: Static Subsuming Mutant Selection](../assets/pdfs/Cerebro_static_subsuming_mutant_selection.pdf), in IEEE Transactions on Software Engineering Journal (TSE).
 
