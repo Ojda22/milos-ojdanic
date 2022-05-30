@@ -7,6 +7,9 @@ tags: [machine learning, fundamentals]
 category: blog
 ---    
 
+[WIP](./202.html) - stay tuned... 
+
+<!---
 ```Training``` - estimating parameters for machine learning methods using set of data D
 ```Testing``` - evaluating how well does a method works on new data D' after training
 
@@ -29,6 +32,8 @@ category: blog
 
 ```Mean Squered Error``` - measures distance from the data to the fit line, square them and add them up (squared so that negative distances do not cancel out the positive distances)
 
-```Probability``` - The chance of the occurance of an event
-```Surprise``` - probability of observing an event: log2(1/p(x))
-```Entropy``` - entropy is the expected value of a surprise: Sigma(sum) p(x) log2(1/p(x)) 
+```Probability``` - The chance of the occurrence of an event x: p(x)
+```Surprise``` - How surprising is to observe an event: log2(1/p(x))
+```Entropy``` - The expected value of a surprise: Sigma(sum) p(x) log2(1/p(x)) 
+
+--->
