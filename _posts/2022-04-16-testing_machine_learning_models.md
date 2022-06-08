@@ -4,7 +4,6 @@ title: Testing Machine Learning Models
 subtitle: Why and how?
 thumbnail-img: /assets/posts/testing_machine_learning.png
 tags: [software testing, machine learning]
-category: mutation_testing_blog
 ---
 
 [WIP](./202.html) - stay tuned... 

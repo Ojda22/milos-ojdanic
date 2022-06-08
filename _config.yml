@@ -16,8 +16,8 @@ author: Milos Ojdanic
 navbar-links:
   Portfolio: "portfolio"
   Crash Courses: "crash_courses"
-  Mutation Testing: "mutation_testing_blog"
-  Blog: "blog"
+#  Blog: "mutation_testing_blog"
+  Mutation Testing / Blog: "blog"
   Poetry: "poetry"
   Contact: "contact"
 
@@ -216,8 +216,8 @@ date_format: "%B %-d, %Y"
 
 
 #pagination
-paginate: 5
-paginate_path: "blog/page:num"
+#paginate: 5
+paginate_path: "/blog/page:num"
 
 #sort_field: 'release_date'
 
@@ -228,7 +228,7 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 3
 
 kramdown:
   input: GFM

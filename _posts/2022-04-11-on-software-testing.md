@@ -4,7 +4,6 @@ title: Let's start with Software Testing
 subtitle: Why do we test software?
 thumbnail-img: /assets/posts/testing.png
 tags: [fundamentals, software testing]
-category: mutation_testing_blog
 ---
 
 ```The true subject matter of the tester is not testing, but the design of test cases. by Paul Ammann and Jeff Offutt```

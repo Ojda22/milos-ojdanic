@@ -4,7 +4,6 @@ title: What is the effect size?
 subtitle: We need to measure the magniture
 thumbnail-img: /assets/posts/thumb.png
 tags: [statistics, introduction]
-category: blog
 ---    
 
 ```

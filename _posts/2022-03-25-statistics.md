@@ -4,7 +4,6 @@ title: Let's hypothesise
 subtitle: Around something significant?
 thumbnail-img: /assets/posts/science_icon.png
 tags: [statictics, introduction]
-category: blog
 ---
 
 You may often hear about statistical hypothesis tests. 
