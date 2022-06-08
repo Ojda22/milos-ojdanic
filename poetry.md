@@ -16,5 +16,11 @@ subtitle: Share - no rights reserved or claimed
 
 [A Psalm Of Life - by Henry Wadsworth Longfellow]({{ site.baseurl }}{% link poetry/a_psalm_of_life.md  %})
 
-[Encore - by Patricia Fleming]({{ site.baseurl }}{% link poetry/encore.md  %})
+[All The World's A Stage - by William Shakespeare]({{ site.baseurl }}{% link poetry/all_worlds_is_a_stage.md  %})
+
+[Dreams - by Langston Hughes]({{ site.baseurl }}{% link poetry/dreams.md  %})
+
+[Invictus: The Unconquerable - by William Ernest Henley]({{ site.baseurl }}{% link poetry/invictus.md  %})
+
+[Where The Mind Is Without Fear - by Rabindranath Tagore]({{ site.baseurl }}{% link poetry/where_the_mind_is_without_fear.md  %})
 
