@@ -63,8 +63,9 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
   ORCID: 0000-0001-8213-3381 
-#  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
+  google-scholar: citations?user=zwDsVkwAAAAJ&hl=en&authuser=3
+  goodreads: mojdanic
+#  discord: invite/invite_code or users/userid
 
 # remove adds from footer
 remove-ads: true

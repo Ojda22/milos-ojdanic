@@ -48,6 +48,18 @@
   </li>
 {%- endif -%}
 
+{%- if site.social-network-links.goodreads -%}
+  <li class="list-inline-item">
+    <a href="https://www.goodreads.com/{{ site.social-network-links.goodreads }}" title="goodreads">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-goodreads fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">goodreads</span>
+   </a>
+  </li>
+{%- endif -%}
+
 {%- if site.social-network-links.telegram -%}
   <li class="list-inline-item">
     <a href="https://t.me/{{ site.social-network-links.telegram }}" title="Telegram">
