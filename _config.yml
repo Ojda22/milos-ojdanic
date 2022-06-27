@@ -216,8 +216,8 @@ date_format: "%B %-d, %Y"
 
 
 #pagination
-#paginate: 5
-paginate_path: "/blog/page:num"
+paginate: 5
+paginate_path: "blog/page:num/"
 
 #sort_field: 'release_date'
 
@@ -227,8 +227,8 @@ paginate_path: "/blog/page:num"
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 3
+#permalink: /:year-:month-:day-:title/
+#paginate: 3
 
 kramdown:
   input: GFM

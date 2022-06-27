@@ -22,6 +22,8 @@ subtitle: Easy and Quick Way to Get Some Knowledge
 
 <img src="../assets/img/architecture.png" height="30px">  [Java Architectures](/202.html) - WIP
 
+<img src="../assets/img/javaee.png" height="30px">  [Java EE / Intro to Quarkus](/202.html) - WIP
+
 <img src="../assets/img/junit.png" height="30px">  [JUnit - Testing Frameworks](/202.html) - WIP
 
 <img src="../assets/img/network.png" height="30px">  [Graph Neural Networks (GNNs)](/202.html) - WIP
