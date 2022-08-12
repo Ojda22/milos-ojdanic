@@ -24,3 +24,7 @@ subtitle: Share - no rights reserved or claimed
 
 [Where The Mind Is Without Fear - by Rabindranath Tagore]({{ site.baseurl }}{% link poetry/where_the_mind_is_without_fear.md  %})
 
+[A Prayer - by Max Ehrmann]({{ site.baseurl }}{% link poetry/a_prayer.md  %})
+
+[Desiderata - Words for Life - by Max Ehrmann]({{ site.baseurl }}{% link poetry/desiderate.md  %})
+
