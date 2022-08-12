@@ -16,7 +16,7 @@ subtitle: Researcher | Software Engineer | QA Engineer
 
 2021 - [Syntactic vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies](https://arxiv.org/pdf/2112.14508.pdf), on ArXiv 
 
-<img src="assets/img/conference-paper.png" height="20px">  2020 - [Commit Aware Mutation Testing](../assets/pdfs/Commit-Aware_mutation_testing.pdf), 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), pp. 394-405. **Distinquished paper award** <img src="../assets/img/award.png" height="30px">
+<img src="assets/img/conference-paper.png" height="20px">  2020 - [Commit Aware Mutation Testing](assets/pdfs/Commit-Aware_mutation_testing.pdf), 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), pp. 394-405. **Distinquished paper award** <img src="../assets/img/award.png" height="30px">
 
 ### Education
 

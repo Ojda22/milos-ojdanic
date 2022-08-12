@@ -18,7 +18,7 @@ subtitle: Easy and Quick Way to Get Some Knowledge
 
 <img src="assets/img/latex.png" height="30px">  [Latex](/202.html) - WIP
 
-<img src="assets/img/java.png" height="30px"> <img src="../assets/img/python.png" height="30px"> [On the understanding of Java and Python - common points](/202.html) - WIP
+<img src="assets/img/java.png" height="30px"> <img src="assets/img/python.png" height="30px"> [On the understanding of Java and Python - common points](/202.html) - WIP
 
 <img src="assets/img/architecture.png" height="30px">  [Java Architectures](/202.html) - WIP
 
