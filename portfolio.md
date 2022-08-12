@@ -8,11 +8,11 @@ subtitle: Researcher | Software Engineer | QA Engineer
 
 ### Publications
 
-<img src="../assets/img/journal-article.png" height="20px">  2022 - [Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution](https://dl.acm.org/doi/10.1145/3530786), in ACM Transactions on Software Engineering and Methodologies Journal (TOSEM).
+<img src="assets/img/journal-article.png" height="20px">  2022 - [Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution](https://dl.acm.org/doi/10.1145/3530786), in ACM Transactions on Software Engineering and Methodologies Journal (TOSEM).
 
-<img src="../assets/img/journal-article.png" height="20px">  2022 - [On the Use of Commit-Relevant Mutants](https://link.springer.com/article/10.1007/s10664-022-10138-1) in Springer Empirical Software Engineering Journal (EMSE).
+<img src="assets/img/journal-article.png" height="20px">  2022 - [On the Use of Commit-Relevant Mutants](https://link.springer.com/article/10.1007/s10664-022-10138-1) in Springer Empirical Software Engineering Journal (EMSE).
 
-<img src="../assets/img/journal-article.png" height="20px">  2021 - [Cerebro: Static Subsuming Mutant Selection](https://ieeexplore.ieee.org/document/9677967), in IEEE Transactions on Software Engineering Journal (TSE).
+<img src="assets/img/journal-article.png" height="20px">  2021 - [Cerebro: Static Subsuming Mutant Selection](https://ieeexplore.ieee.org/document/9677967), in IEEE Transactions on Software Engineering Journal (TSE).
 
 2021 - [Syntactic vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies](https://arxiv.org/pdf/2112.14508.pdf), on ArXiv 
 
