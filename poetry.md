@@ -10,13 +10,17 @@ subtitle: Share - no rights reserved or claimed
 
 [Edsger W. Dijkstra's "Three Golden Rules"](../assets/pdfs/golden_rules.pdf)
 
+[Stopping by Woods on a Snowy Evening - by Robert Frost]({{ site.baseurl }}{% link poetry/stopping_by_woods_on_a_snowy_evenening.md  %})
+
 [Renascence - Edna St. Vincent Millay]({{ site.baseurl }}{% link poetry/renascence.md  %})
 
-[Stopping by Woods on a Snowy Evening - by Robert Frost]({{ site.baseurl }}{% link poetry/stopping_by_woods_on_a_snowy_evenening.md  %})
+[A Prayer - by Max Ehrmann]({{ site.baseurl }}{% link poetry/a_prayer.md  %})
 
 [A Psalm Of Life - by Henry Wadsworth Longfellow]({{ site.baseurl }}{% link poetry/a_psalm_of_life.md  %})
 
 [All The World's A Stage - by William Shakespeare]({{ site.baseurl }}{% link poetry/all_worlds_is_a_stage.md  %})
+
+[Desiderata - Words for Life - by Max Ehrmann]({{ site.baseurl }}{% link poetry/desiderate.md  %})
 
 [Dreams - by Langston Hughes]({{ site.baseurl }}{% link poetry/dreams.md  %})
 
@@ -24,7 +28,5 @@ subtitle: Share - no rights reserved or claimed
 
 [Where The Mind Is Without Fear - by Rabindranath Tagore]({{ site.baseurl }}{% link poetry/where_the_mind_is_without_fear.md  %})
 
-[A Prayer - by Max Ehrmann]({{ site.baseurl }}{% link poetry/a_prayer.md  %})
 
-[Desiderata - Words for Life - by Max Ehrmann]({{ site.baseurl }}{% link poetry/desiderate.md  %})
 
