@@ -21,13 +21,13 @@ Fortunately, or unfortunately for the guardian, it currently deals with a new wa
 Yes, it is hard to balance. Yet, these two factors are mutually dependent. Think about it, if the system does not satisfy high-quality expectations, it will neglect rapid delivery, and if there is no rapid delivery, it will neglect high-quality expectations. Thus, besides investing all the efforts in rapid delivery, synergy is required between stressing the units of complex systems and the interaction of different software components heavily.
 This combination in test-driven development makes the key to functional requirements and hides the key to the success of software products now and in the future.
 
-### How does it comes that software can be unreliable? My social apps never let me down?
+### How does it come that software can be unreliable? My social apps never let me down!
 
-Let's be clear that software development is an engineering discipline. Like all other disciplines, engineering products are ofter diverse. 
-As in civil engineering, when we build from house to bridge, in the software industry, also, the scope is quite broad. It goes from the social app where we can exchange with our friends from the cosy sofa, from the exchange with a NASA rover from Mars, asking him if there is a cosy chair up there? or down there? :) 
+Let's be clear that software development is an engineering discipline. Like all other disciplines, engineering products are often diverse. 
+As in civil engineering, when we build from house to bridge, in the software industry, also, the scope is quite broad. It goes from the social app where we can exchange with our friends from the cosy sofa, from the exchange with a NASA rover from Mars, asking him if there is a cosy chair up there? Or down there? :) 
 This software spectrum goes to the control rooms of nuclear reactors, aerospace vehicles, CT and MRI scans, and many more.
 
-Even with our guardian (software testing practices), disasters in software occur and often have severe consequences for health, environment and economy, which usually results in severe disasters. 
+Even with our guardian (software testing practices), software disasters often have severe consequences for health, environment and economy, which usually results in severe disasters.
 
 Before you depart and start investigating severe disasters related to the software (you will find some references at the bottom), you need to know that not all the problems related to the software end up with consequences.
 That's why you need to learn about software faults, errors and failures (and yes, remember, don't be judgmental, remember all the lives saved by software, increased well being and what it brought to science).
@@ -42,7 +42,7 @@ During the execution, everything that happens in the program (variables, counter
 Therefore, a fault is a design mistake occurring inside the program state and relates to those instructions. It occurs as a product of a constrained (far from flawless) human decision-making process.
 And as long as the human nature of thoughts is not perfect, and as a human is the one that writes the software, at least for some time yet, we will never be able to eliminate all possible faults of the software.
 
-```The faults are easy to make, but difficult to catch``` by MIT mathematician Edelman
+```The faults are easy to make, but difficult to catch``` by MIT mathematician Edelman.
 
 As soon as the fault manifests and makes an incorrect internal program state, we are dealing with errors in the system. Errors are okay, as long as they are handled tho.
 Think about it, have you ever tried to fill a form field with a date format that is not quite the one that particular software prefers (or at least the software engineer that wrote it)? And usually, it tells you what kind of format it prefers? 
