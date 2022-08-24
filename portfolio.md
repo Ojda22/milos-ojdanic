@@ -4,9 +4,11 @@ title: Portfolio
 subtitle: Researcher | Software Engineer | QA Engineer
 ---
 
-ℹ️ If you enjoy more PDF, find here my [CV](assets/pdfs/Milos_Ojdanic.pdf) 📜
+ℹ️ If you enjoy more PDFs, find here my [CV](assets/pdfs/Milos_Ojdanic.pdf) 📜
 
 ### Publications
+
+<img src="assets/img/conference-paper.png" height="20px">  2022 - [Change-Aware Mutation Testing for Evolving Systems](), in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) - Doctoral Symposium.
 
 <img src="assets/img/journal-article.png" height="20px">  2022 - [Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution](https://dl.acm.org/doi/10.1145/3530786), in ACM Transactions on Software Engineering and Methodologies Journal (TOSEM).
 
@@ -16,7 +18,7 @@ subtitle: Researcher | Software Engineer | QA Engineer
 
 2021 - [Syntactic vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies](https://arxiv.org/pdf/2112.14508.pdf), on ArXiv 
 
-<img src="assets/img/conference-paper.png" height="20px">  2020 - [Commit Aware Mutation Testing](assets/pdfs/Commit-Aware_mutation_testing.pdf), 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), pp. 394-405. **Distinquished paper award** <img src="../assets/img/award.png" height="30px">
+<img src="assets/img/conference-paper.png" height="20px">  2020 - [Commit Aware Mutation Testing](assets/pdfs/Commit-Aware_mutation_testing.pdf), 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), pp. 394-405. **Distinguished paper award** <img src="assets/img/award.png" height="30px">
 
 ### Education
 
@@ -36,7 +38,7 @@ Mutation Testing Lecture, [Bachelor Studies, University of Luxembourg](https://w
 
 ### Experimental Tools and Datasets
 
-[PITAssert](https://github.com/Ojda22/pitest/tree/pit-SOM-RM-AssertCache) - Extension framework for the state-of-the-art mutation testing tool PIT - delivers instrumentation of test assertions and generation of high order mutants guided by commit changed statements.
+[PITAssert](https://github.com/Ojda22/pitest/tree/pit-SOM-RM-AssertCache) - An extension framework for the state-of-the-art mutation testing tool PIT - delivers instrumentation of test assertions and generation of high-order mutants guided by commit changed statements.
 
 [JavaPDG](https://github.com/serval-uni-lu/java-pdg) - Program for the bytecode graph generation. It generates Definition-Use chains in aggregation with the Control Flow Dependency graph and Throw-Exceptions Execution Controls.
 
@@ -44,4 +46,4 @@ Mutation Testing Lecture, [Bachelor Studies, University of Luxembourg](https://w
 
 ### Disclaimer
 
-This page contains personal archived (pre-print versions) articles published by IEEE, ACM, Elsevier, Springer, Wiley and other publishers. Copyright and all rights therein are retained by authors or by other copyright holders. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
+This page contains personally archived (pre-print versions) articles published by IEEE, ACM, Elsevier, Springer, Wiley and other publishers. Authors or other copyright holders retain copyright and all rights therein. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes, creating new collective works for resale or redistribution to servers or lists, or reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
