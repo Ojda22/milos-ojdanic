@@ -31,8 +31,8 @@ Thus, statistical significance tests depend on sample size, and for this reason,
 Therefore, to better understand reported results, experimental design, analysis, we need to comprehend the magnitude of the difference between observed data points. 
 And now, get ready; we are talking about the **_effects size_** of results.
 
-Note, while the p-value (probability of significance) inform whether the effect exists (p-value larger than alpha level chosen 0.01, 99% confidence), it does not tell us about the size of the effect. 
-So, to not be misguided when reading about reported study, look both for substantive significance (effect size) that statistical significance (p-value) refers to.
+Note, while the p-value (probability of significance) informs whether the effect exists (p-value larger than alpha level chosen 0.01, 99% confidence), it does not tell us about the size of the effect. 
+So, to avoid being misguided when reading about the reported study, look for substantive significance (effect size) that statistical significance (p-value) refers to.
 
 In fact, an estimate of the effect size is often needed before starting the research endeavour to calculate the number of subjects likely to be required to avoid a Type II, or β, error, which is the probability of concluding there is no effect when one actually exists. 
 In other words, you must determine what number of subjects in the study will be sufficient to ensure (to a particular degree of certainty) that the study has adequate power to support the null hypothesis. 
