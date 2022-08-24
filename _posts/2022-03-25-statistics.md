@@ -8,7 +8,8 @@ tags: [statictics, introduction]
 
 You may often hear about statistical hypothesis tests. 
 More than in other places, they are encountered in science. 
-There, serving as a scientific instrument to express the confidence of a scientific statement. So what is it about, and how do we do it.
+There, serving as a scientific instrument to express the confidence of a scientific statement. 
+So what is it about, and how do we do it?
 
 A _**statistical hypothesis test**_ regards the outcome of the observations. 
 Precisely, it regards whether there is no difference between specific characteristics of a population. 
@@ -16,9 +17,9 @@ Or, if there is a slight difference, we hypothesise it must be a due chance alon
 This kind of hypothesis is called the **_null hypothesis_** (H<sub>0</sub>). 
 While alternative (everything against null hypothesis), well, it is called **_alternative hypothesis_** H<sub>1</sub> or H<sub>a</sub>.
 
-The test is often analysed employing a _**p-value**_.
+The test is often analysed by employing a _**p-value**_.
 The value is the probability of obtaining test results at least as extreme as the results observed, under the assumption that the null hypothesis is correct. 
-For example: Are boys taller than girls at age eight? The null hypothesis is "they are the same average height."
+For example: Are boys taller than girls at age eight? The null hypothesis is that "they are the same average height."
 
 When analysing the p-value of a significance test, we must establish a _**significance level**_, usually referred to as the Greek lower case letter alpha (a). 
 A standard value for the significance level is 5%, reported as 0.05, and formally represents the frontier for specifying a statistically significant finding.
@@ -41,7 +42,7 @@ _**Type I Error:**_ Reject the null hypothesis when there is no significant effe
 **_Type II Error:_** Not reject the null hypothesis when there is a significant effect (false negative). The p-value is pessimistically large.
 
 So it must be something that helps us gain confidence whether we correctly reject the null hypothesis, right?. 
-Yes, there is a probability (not expecting it right) that measures this confidence, formally called _**statistical power**_.
+Yes, a probability (not expecting it right) measures this confidence, formally called _**statistical power**_.
 
 Statistical power has relevance only when the null is false, as it is the probability that a test will correctly reject a false null hypothesis.
 
@@ -53,7 +54,7 @@ Power = 1 - Type II Error
 <br>
 Prob.(True Positive) = 1 - Prob.(False Negative)
 
-When interpreting statistical power, we seek experiential setups that have high statistical power.
+When interpreting statistical power, we seek experiential setups with high statistical power.
 
 _**Low Statistical Power**_: Large risk of committing Type II errors, e.g. a false negative.<br>
 _**High Statistical Power**_: Small risk of committing Type II errors.
