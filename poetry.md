@@ -28,5 +28,7 @@ subtitle: Share - no rights reserved or claimed
 
 [Where The Mind Is Without Fear - by Rabindranath Tagore]({{ site.baseurl }}{% link poetry/where_the_mind_is_without_fear.md  %})
 
+[If - by Rudyard Kipling]({{ site.baseurl }}{% link poetry/if.md  %})
+
 
 
