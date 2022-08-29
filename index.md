@@ -10,7 +10,9 @@ My academic and industrial interests revolve around the area of Software Enginee
 
 I tackle the challenges of developing high-quality test cases, their selection, prioritization and thoroughness for a source code given a regression change.
 
-# My inspiration is to contribute and deliver practical and powerful test environments to software practitioners - by fusing highly assured software, delivered at a reasonable cost, with partial or complete automation to the testers.
+<!--
+My inspiration is to contribute and deliver practical and powerful test environments to software practitioners - by fusing highly assured software, delivered at a reasonable cost, with partial or complete automation to the testers.
+-->
 
 **Check out my page**; I hope you will find something stimulating and leave enriched with a bit of knowledge :books:  :evergreen_tree: 
 
