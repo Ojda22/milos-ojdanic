@@ -34,7 +34,7 @@ subtitle: Researcher | Software Engineer | QA Engineer
 
 ### Teaching, Talks and other stuff
 
-Mutation Testing Lecture, Winter Semester 2021, [Bachelor Studies, University of Luxembourg](https://wwwfr.uni.lu/formations/fstm/bachelor_in_applied_information_technology), course by [prof. Dr Yves Le Traon](https://wwwfr.uni.lu/snt/people/yves_le_traon)
+Mutation Testing Lecture, Winter Semester 2021, [Bachelor Studies, University of Luxembourg](https://wwwfr.uni.lu/formations/fstm/bachelor_in_applied_information_technology), course by [Prof. Yves Le Traon](https://wwwfr.uni.lu/snt/people/yves_le_traon)
 
 ### Experimental Tools and Datasets
 
