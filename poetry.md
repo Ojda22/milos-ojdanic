@@ -4,11 +4,6 @@ title: Feel the power of words
 subtitle: Share - no rights reserved or claimed
 ---
 
-[Bertrand Russell's "Ten Commandments"]({{ site.baseurl }}{% link poetry/russells_commandements.md  %})
-
-[Jeff Offutt's "I love journal papers and you should too"](https://onlinelibrary.wiley.com/doi/epdf/10.1002/stvr.1698)
-
-[Edsger W. Dijkstra's "Three Golden Rules"](assets/pdfs/golden_rules.pdf)
 
 [Stopping by Woods on a Snowy Evening - by Robert Frost]({{ site.baseurl }}{% link poetry/stopping_by_woods_on_a_snowy_evenening.md  %})
 
@@ -30,5 +25,10 @@ subtitle: Share - no rights reserved or claimed
 
 [If - by Rudyard Kipling]({{ site.baseurl }}{% link poetry/if.md  %})
 
+[Bertrand Russell's "Ten Commandments"]({{ site.baseurl }}{% link poetry/russells_commandements.md  %})
+
+[Jeff Offutt's "I love journal papers and you should too"](https://onlinelibrary.wiley.com/doi/epdf/10.1002/stvr.1698)
+
+[Edsger W. Dijkstra's "Three Golden Rules"](assets/pdfs/golden_rules.pdf)
 
 
