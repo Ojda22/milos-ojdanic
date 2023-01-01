@@ -8,6 +8,8 @@ subtitle: Researcher | Software Engineer | QA Engineer
 
 ### Publications
 
+2022 - [Keeping Mutation Test Suites Consistent and Relevant with Long-Standing Mutants](https://arxiv.org/pdf/2212.11762.pdf), on ArXiv 
+
 <img src="assets/img/conference-paper.png" height="20px">  2022 - [Change-Aware Mutation Testing for Evolving Systems](), in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) - Doctoral Symposium.
 
 <img src="assets/img/journal-article.png" height="20px">  2022 - [Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution](https://dl.acm.org/doi/10.1145/3530786), in ACM Transactions on Software Engineering and Methodologies Journal (TOSEM).
