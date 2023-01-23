@@ -14,7 +14,7 @@ author: Milos Ojdanic
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Portfolio: "portfolio"
+  Resume: "portfolio"
   Crash Courses: "crash_courses"
 #  Blog: "mutation_testing_blog"
   Mutation Testing / Blog: "blog"

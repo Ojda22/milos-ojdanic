@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Portfolio
+title: Resume
 subtitle: Researcher | Software Engineer | QA Engineer
 ---
 
-ℹ️ If you enjoy more PDFs, find here my [CV](assets/pdfs/Milos_Ojdanic.pdf) 📜
+ℹ️ If you enjoy more PDFs, find here my [CV](assets/pdfs/Milos_Ojdanic_v2.pdf) 📜
 
 ### Publications
 
@@ -37,6 +37,10 @@ subtitle: Researcher | Software Engineer | QA Engineer
 ### Teaching, Talks and other stuff
 
 Mutation Testing Lecture, Winter Semester 2021, [Bachelor Studies, University of Luxembourg](https://wwwfr.uni.lu/formations/fstm/bachelor_in_applied_information_technology), course by [Prof. Yves Le Traon](https://wwwfr.uni.lu/snt/people/yves_le_traon)
+
+Software Engineering Lecture, Winter Semester 2022, [Master Studies, University of Luxembourg](https://wwwde.uni.lu/studiengaenge/fstm/master_in_information_system_security_management), course by [Prof. Yves Le Traon](https://wwwfr.uni.lu/snt/people/yves_le_traon)
+
+UML Diagrams Lectures, Winter Semester 2022, [Master Studies, University of Luxembourg](https://wwwde.uni.lu/studiengaenge/fstm/master_in_information_system_security_management), course by [Prof. Yves Le Traon](https://wwwfr.uni.lu/snt/people/yves_le_traon)
 
 ### Experimental Tools and Datasets
 
