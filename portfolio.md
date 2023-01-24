@@ -22,6 +22,20 @@ subtitle: Researcher | Software Engineer | QA Engineer
 
 <img src="assets/img/conference-paper.png" height="20px">  2020 - [Commit Aware Mutation Testing](assets/pdfs/Commit-Aware_mutation_testing.pdf), 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), pp. 394-405. **Distinguished paper award** <img src="assets/img/award.png" height="30px">
 
+
+### Academic Peer Reviews and Academic Service
+
+[e-Informatica Software Engineering Journal](https://www.e-informatyka.pl/) (EISEJ), 2023
+
+Shadow Program Committee Member, [The 19th International Conference on Mining Software Repositories]((https://conf.researchr.org/home/msr-2022)) 2022
+
+Student Volunteer Chair, [The 37th International Conference on Software Maintenance and Evolution](https://icsme2021.github.io/), 2021
+
+
+
+
+
+
 ### Education
 
 :mortar_board: Masters of Eng. in Software Engineering, 2019, [Mälardalen University](https://www.mdu.se/en/malardalen-university), Västerås, Sweden
@@ -34,7 +48,7 @@ subtitle: Researcher | Software Engineer | QA Engineer
 
 :computer: :chart_with_upwards_trend: Full Stack Engineer, [CoreIT](https://www.coreit.me/), Focus on Development of Banking Processes 
 
-### Teaching, Talks and other stuff
+### Teaching duties
 
 Mutation Testing Lecture, Winter Semester 2021, [Bachelor Studies, University of Luxembourg](https://wwwfr.uni.lu/formations/fstm/bachelor_in_applied_information_technology), course by [Prof. Yves Le Traon](https://wwwfr.uni.lu/snt/people/yves_le_traon)
 
