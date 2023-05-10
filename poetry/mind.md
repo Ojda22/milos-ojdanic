@@ -15,7 +15,7 @@ layout: page
  No matter how long, no matter how far,<br>
  My power is persistence; I will do, I will try.<br>
  <br>
- Life attempts to help you, it scratches ad thorns,<br>
+ Life attempts to help you, it scratches and thorns,<br>
  But be aware of one thing; Samuarai I am sworn.<br>
  <br>
  I have everything for the journey,<br>

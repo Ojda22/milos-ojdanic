@@ -8,11 +8,11 @@ subtitle: Researcher | Software Engineer | QA Engineer
 
 ### Publications
 
-<img src="assets/img/conference-paper.png" height="20px">  2023 - [On Comparing Mutation Testing Tools through Learning-based Mutant Selection](), in The 4th ACM / IEEE International Conference on Automation of Software Test (AST).
+<img src="assets/img/conference-paper.png" height="20px">  2023 - [On Comparing Mutation Testing Tools through Learning-based Mutant Selection](assets/pdfs/tools_comparison_paper-camera-ready.pdf), in The 4th ACM / IEEE International Conference on Automation of Software Test (AST).
 
 2022 - [Keeping Mutation Test Suites Consistent and Relevant with Long-Standing Mutants](https://arxiv.org/pdf/2212.11762.pdf), on ArXiv 
 
-<img src="assets/img/conference-paper.png" height="20px">  2022 - [Change-Aware Mutation Testing for Evolving Systems](), in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) - Doctoral Symposium.
+<img src="assets/img/conference-paper.png" height="20px">  2022 - [Change-Aware Mutation Testing for Evolving Systems](assets/pdfs/change-aware-mutation-testing_camera-ready.pdf), in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) - Doctoral Symposium.
 
 <img src="assets/img/journal-article.png" height="20px">  2022 - [Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution](https://dl.acm.org/doi/10.1145/3530786), in ACM Transactions on Software Engineering and Methodologies Journal (TOSEM).
 
@@ -27,15 +27,15 @@ subtitle: Researcher | Software Engineer | QA Engineer
 
 ### Academic Peer Reviews and Academic Service
 
-[e-Informatica Software Engineering Journal](https://www.e-informatyka.pl/) (EISEJ), 2023
+Artifact Evaluation Review Committee Member, [The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis](https://conf.researchr.org/track/issta-2023/issta-2023-artifact-evaluation#Call-for-Reviewers), (ISSTA), 2023;
 
-Shadow Program Committee Member, [The 19th International Conference on Mining Software Repositories]((https://conf.researchr.org/home/msr-2022)) 2022
+Shadow Reviewer, [The 35th Euromicro Conference on Real-Time Systems](https://www.ecrts.org/), (ECRTS), 2023;
 
-Student Volunteer Chair, [The 37th International Conference on Software Maintenance and Evolution](https://icsme2021.github.io/), 2021
+Review Committee Member, [e-Informatica Software Engineering Journal](https://www.e-informatyka.pl/) (EISEJ), 2023;
 
+Shadow Program Committee Member, [The 19th International Conference on Mining Software Repositories](https://conf.researchr.org/home/msr-2022) (MSR), 2022;
 
-
-
+Student Volunteer Chair, [The 37th International Conference on Software Maintenance and Evolution](https://icsme2021.github.io/), (ICSME) 2021;
 
 
 ### Education
