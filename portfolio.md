@@ -64,7 +64,7 @@ UML Diagrams Lectures, Winter Semester 2022, [Master Studies, University of Luxe
 
 [JavaPDG](https://github.com/serval-uni-lu/java-pdg) - Program for the bytecode graph generation. It generates Definition-Use chains in aggregation with the Control Flow Dependency graph and Throw-Exceptions Execution Controls.
 
-[MutationTestingDataset](https://ojda22.github.io/milos-ojdanic/mutants_datasets) - At this point, the most extensive collection of mutations in code evolution. Counts more than 10mil of the first and second-order mutations.
+[MutationTestingDataset](https://ojda22.github.io/milos-ojdanic/mutation_datasets) - At this point, the most extensive collection of mutations in code evolution. Counts more than 10mil of the first and second-order mutations.
 
 ### Disclaimer
 
