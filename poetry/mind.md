@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<h2 align="center">"Salah's" by Milos Ojdanic</h2>
+<h2 align="center">"The inner part" by Milos Ojdanic</h2>
 
 <div align="center">
 <br>

@@ -4,7 +4,7 @@ title: Feel the power of words
 subtitle: Share - no rights reserved or claimed
 ---
 
-[Salah's - by Milos Ojdanic]({{ site.baseurl }}{% link poetry/mind.md  %})
+[The inner part - by Milos Ojdanic]({{ site.baseurl }}{% link poetry/mind.md  %})
 
 [Stopping by Woods on a Snowy Evening - by Robert Frost]({{ site.baseurl }}{% link poetry/stopping_by_woods_on_a_snowy_evenening.md  %})
 
