@@ -8,23 +8,21 @@ As part of my PhD research, I conducted experiments that produced several datase
 
 ### 💁🏻‍ Dataset of mutants with clean test contracts
  
-#### 📄 On the Use of Commit-Relevant Mutants 
+#### 📄 On the Use of Commit-Relevant Mutants ([publication web page](https://relevantmutationtesting.github.io/aware-commit-mutation-testing/))
 
 * 👉 [Download data](https://drive.google.com/file/d/1oSOEBfzgNmWCw85SUVD04asX8-7G0yLC/view?usp=sharing) (⚠️ heavy file) 
 
 ### 💁🏻‍ Dataset of High-Order Mutants
  
-#### 📜 Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution 
+#### 📜 Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution ([publication web page](https://mutationtesting-user.github.io/evolve-mutation.github.io/))
 
 * 👉 [Download data Part I](https://drive.google.com/drive/folders/1l1kP4IGXWi4ZXTbFPzxotkGx6xpCRoYY?usp=sharing) (⚠️ heavy file) 
 * 👉 [Download data Part II](https://drive.google.com/drive/folders/1izO05GGMvvv29XG_Qa6bUTvv_6cGgO50?usp=sharing) (⚠️ heavy file) 
 
-* 👉 [Link to Experiment Reproduction scripts](https://github.com/Ojda22/study_I)
-
 ### 💁🏻‍ Dataset of Mutants from different mutation approaches
 
 #### 📃 On Comparing Mutation Testing Tools through Learning-based Mutant Selection
-#### 📝 Syntactic vs. semantic similarity of artificial and real faults in mutation testing studies ([publication page](https://mutationtesting-user.github.io/bugs_vs_mutants/))
+#### 📝 Syntactic vs. semantic similarity of artificial and real faults in mutation testing studies ([publication web page](https://mutationtesting-user.github.io/bugs_vs_mutants/))
 
 * 👉 [Download data](https://drive.google.com/file/d/1x9bhZH0i8wuK5cgGwwXf2OLFGJqtA4L1/view?usp=sharing)
 
