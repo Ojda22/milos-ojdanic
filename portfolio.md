@@ -8,11 +8,11 @@ subtitle: Researcher | Software Engineer | QA Engineer
 
 ### Publications
 
+<img src="assets/img/conference-paper.png" height="20px"> 2023 - [Keeping Mutation Test Suites Consistent and Relevant with Long-Standing Mutants](https://arxiv.org/pdf/2212.11762.pdf), in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE-IVR) 
+
 <img src="assets/img/journal-article.png" height="20px"> 2023 - [Syntactic vs. Semantic similarity of Artificial and Real Faults in Mutation Testing Studies](https://arxiv.org/pdf/2112.14508.pdf), in IEEE Transactions on Software Engineering Journal (TSE). 
 
 <img src="assets/img/conference-paper.png" height="20px">  2023 - [On Comparing Mutation Testing Tools through Learning-based Mutant Selection](assets/pdfs/tools_comparison_paper-camera-ready.pdf), in The 4th ACM / IEEE International Conference on Automation of Software Test (AST). **Distinguished paper award** <img src="assets/img/award.png" height="30px">
-
-2022 - [Keeping Mutation Test Suites Consistent and Relevant with Long-Standing Mutants](https://arxiv.org/pdf/2212.11762.pdf), on ArXiv 
 
 <img src="assets/img/conference-paper.png" height="20px">  2022 - [Change-Aware Mutation Testing for Evolving Systems](assets/pdfs/change-aware-mutation-testing_camera-ready.pdf), in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) - Doctoral Symposium.
 
