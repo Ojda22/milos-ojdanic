@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-subtitle: Researcher | Software Engineer | QA Engineer
+subtitle: Data Scientist | Software Engineer | QA Engineer
 ---
 
 ℹ️ If you enjoy more PDFs, find here my [CV](assets/pdfs/Milos_Ojdanic_v2.pdf) 📜
