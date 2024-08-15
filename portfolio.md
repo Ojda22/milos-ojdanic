@@ -4,7 +4,7 @@ title: Resume
 subtitle: Data Scientist | Software Engineer | QA Engineer
 ---
 
-ℹ️ If you enjoy more PDFs, find here my [CV](assets/pdfs/CV_Milos_Ojdanic.pdf) 📜
+ℹ️ If you enjoy more PDFs, find here my [CV](assets/pdfs/Milos_Ojdanic_CV.pdf) 📜
 
 ### Publications
 
